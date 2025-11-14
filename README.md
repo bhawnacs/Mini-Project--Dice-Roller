@@ -1,4 +1,4 @@
-# 🎲 Dice Roller (C# Mini Project)
+# Dice Roller (C# Mini Project)
 
 ## 📘 Overview
 A simple C# console application that simulates rolling a dice.  
